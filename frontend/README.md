@@ -36,12 +36,12 @@ La aplicación se ejecutará en http://localhost:3000
 
 ## Estructura del Proyecto
 - src/App.js: Componente principal que contiene toda la lógica y UI
--Funcionalidades implementadas:
--- Formulario para crear/editar notas
--- Lista de notas mostradas en formato de tarjetas
--- Barra de búsqueda por ID
--- Diálogos modales para crear/editar
--- Confirmación de eliminación
+- Funcionalidades implementadas:
+- - Formulario para crear/editar notas
+- - Lista de notas mostradas en formato de tarjetas
+- - Barra de búsqueda por ID
+- - Diálogos modales para crear/editar
+- - Confirmación de eliminación
 
 ## API Endpoints Utilizados
 - GET /api/notes: Obtiene todas las notas  
