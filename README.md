@@ -14,6 +14,13 @@ notes-app/
     ├── public/
     └── src/
         ├── components/
+        │   ├── NoteForm.js
+        │   ├── NoteCard.js
+        │   ├── SearchBar.js
+        │   ├── index.js
+        │   └── SearchDialog.js
+        ├── services/
+        │   └── api.js
         ├── App.js
         └── index.js
 ```
